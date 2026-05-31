@@ -1,8 +1,8 @@
-# Projek SCPK - Pemilihan Karyawan 🏢
+# Projek SCPK - Pemilihan Karyawan 
 
 Repository ini berisi implementasi Sistem Pendukung Keputusan (SPK) untuk proses pemilihan karyawan. Projek ini dikembangkan sebagai bagian dari Laporan Akhir Praktikum menggunakan metode **Weighted Product (WP)**.
 
-## 📁 Struktur Direktori & Penjelasan File
+## Struktur Direktori & Penjelasan File
 
 Berikut adalah daftar file yang ada di dalam repository ini beserta fungsinya:
 
@@ -12,14 +12,7 @@ Berikut adalah daftar file yang ada di dalam repository ini beserta fungsinya:
 *   **`salary_data.xlsx`**: Dataset mentah (raw data) berupa informasi gaji/kriteria yang digunakan sebagai bahan uji coba sistem.
 *   **`Laporan Akhir Prak SCPK.docx`**: Dokumen laporan akhir praktikum yang berisi landasan teori, metodologi, dan analisis hasil dari projek ini.
 
-## 🛠️ Teknologi yang Digunakan
+## yang Digunakan
 
 *   **Bahasa Pemrograman:** Python
 *   **Platform/Tools:** Jupyter Notebook, Microsoft Excel
-
-## 🚀 Cara Penggunaan
-
-1. Pastikan Python sudah terinstal di komputermu.
-2. Clone repository ini:
-```bash
-   git clone [https://github.com/Abhiprayaa29/Projek-SCPK.git](https://github.com/Abhiprayaa29/Projek-SCPK.git)
